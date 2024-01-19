@@ -3026,7 +3026,7 @@
 			position: fixed;
     		left: 50%;
     		bottom: 0;
-    		transform: translate(-50%, -50%);
+    		transform: translate(-50%, -60%);
 		}
 
 		
@@ -3180,7 +3180,12 @@
 
 		#intro h1 {
 			font-size: 4rem;
-			line-height: 1;
+			line-height: 1.1;
+		}
+
+		#intro h3 {
+			font-size: 1.5rem;
+			margin-top: -1rem;
 		}
 
 		#intro p {
@@ -3270,13 +3275,14 @@
 			}
 
 				#intro h1 {
-					font-size: 3rem;
+					font-size: 2rem;
 					line-height: 1.1;
 					margin: -8rem 4rem 1rem 4rem;
 				}
 
 				#intro h3 {
-					font-size: 1rem;
+					font-size: 0.7rem;
+					margin-top: -0.3rem;
 					margin-bottom: 2rem;
 				}
 
