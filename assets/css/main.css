@@ -3066,7 +3066,7 @@
 				width: 220%;
 				position: fixed;
     			left: 50%;
-    			bottom: 10%;
+    			bottom: 20%;
     			transform: translate(-50%, -50%);
 			}
 
@@ -4462,7 +4462,7 @@
 			-webkit-transform: translateX(0);
 			-ms-transform: translateX(0);
 			transform: translateX(0);
-			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
+			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.5);
 			visibility: visible;
 		}
 
