@@ -3022,11 +3022,11 @@
 		}
 
 		.bg img {
-			width: 20%;
+			width: 18%;
 			position: fixed;
     		left: 50%;
     		bottom: 0;
-    		transform: translate(-50%, -45%);
+    		transform: translate(-50%, -50%);
 		}
 
 		
@@ -3063,7 +3063,11 @@
 
 			#wrapper > .bg {
 				background-size: auto, auto, auto 220%;
-				margin: -5.5rem 0rem -16rem 0rem ;
+				width: 220%;
+				position: fixed;
+    			left: 50%;
+    			bottom: 7%;
+    			transform: translate(-50%, -50%);
 			}
 
 		}
@@ -3261,12 +3265,12 @@
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 2rem 2rem 6rem 2rem ;
+				padding: 2rem 2rem 14rem 2rem ;
 				min-height: 80vh;
 			}
 
 				#intro h1 {
-					font-size: 2rem;
+					font-size: 3rem;
 					line-height: 1.1;
 					margin: -8rem 4rem 1rem 4rem;
 				}
