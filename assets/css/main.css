@@ -3063,10 +3063,10 @@
 
 			#wrapper > .bg {
 				background-size: auto, auto, auto 220%;
-				width: 230%;
+				width: 250%;
 				position: fixed;
     			left: 50%;
-    			bottom: 25%;
+    			bottom: 22%;
     			transform: translate(-50%, -50%);
 			}
 
@@ -3255,7 +3255,7 @@
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 90vh;
+				min-height: 120vh;
 			}
 
 				#intro p br {
@@ -3276,7 +3276,7 @@
 			}
 
 				#intro h1 {
-					font-size: 2rem;
+					font-size: 2.5rem;
 					line-height: 1.1;
 					margin: -8rem 4rem 1rem 4rem;
 				}
