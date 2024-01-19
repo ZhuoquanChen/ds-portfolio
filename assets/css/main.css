@@ -3066,7 +3066,7 @@
 				width: 220%;
 				position: fixed;
     			left: 50%;
-    			bottom: 7%;
+    			bottom: 10%;
     			transform: translate(-50%, -50%);
 			}
 
@@ -3184,8 +3184,9 @@
 		}
 
 		#intro h3 {
-			font-size: 1.5rem;
+			font-size: 1.3rem;
 			margin-top: -1rem;
+			letter-spacing: 0.2rem;
 		}
 
 		#intro p {
@@ -3270,7 +3271,7 @@
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 2rem 2rem 14rem 2rem ;
+				padding: 2rem 2rem 16rem 2rem ;
 				min-height: 80vh;
 			}
 
@@ -3284,6 +3285,7 @@
 					font-size: 0.7rem;
 					margin-top: -0.3rem;
 					margin-bottom: 2rem;
+					letter-spacing: 0.05rem;
 				}
 
 				#intro p {
