@@ -3063,10 +3063,10 @@
 
 			#wrapper > .bg {
 				background-size: auto, auto, auto 220%;
-				width: 220%;
+				width: 230%;
 				position: fixed;
     			left: 50%;
-    			bottom: 20%;
+    			bottom: 25%;
     			transform: translate(-50%, -50%);
 			}
 
@@ -3271,7 +3271,7 @@
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 2rem 2rem 16rem 2rem ;
+				padding: 2rem 2rem 22rem 2rem ;
 				min-height: 80vh;
 			}
 
